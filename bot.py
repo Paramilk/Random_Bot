@@ -13,11 +13,11 @@ client = discord.Client()
 async def on_ready():
     print(f'{client.user} has connected to Discord!')
 
-client.run(TOKEN)
-
-
 bot = commands.Bot(command_prefix="$")
 
-@bot.command()
-async def test(ctx, arg):
+@bot.command(name='test')
+async def _test(ctx, arg):
     await ctx.send(arg)
+
+bot.run(TOKEN)
+    
