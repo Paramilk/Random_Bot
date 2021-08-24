@@ -11,4 +11,5 @@ To run the bot you'll need these dependencies
 -dotenv
 
 and then to run it you need to do
+
 ```python3 bot.py```
