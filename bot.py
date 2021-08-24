@@ -15,3 +15,9 @@ async def on_ready():
 
 client.run(TOKEN)
 
+
+bot = commands.Bot(command_prefix="$")
+
+@bot.command()
+async def test(ctx, arg):
+    await ctx.send(arg)
