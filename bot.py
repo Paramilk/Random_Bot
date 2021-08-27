@@ -16,9 +16,9 @@ async def on_ready():
 bot = commands.Bot(command_prefix="$")
 
 @bot.command(name='print')
-...
+
 async def _print(ctx, *, arg):
   await ctx.send(arg)
-...
+
 
 bot.run(TOKEN)
