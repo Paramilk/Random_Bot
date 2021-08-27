@@ -1,9 +1,23 @@
 # Random_Bot
 Hello Github, Paramilk here and here is the source code to my bot Random_Bot.
 -Paramilk
-i use dotenv & Discord.py libaries and python version 3.8.10 to test the bot
+Fetching the code
 
+First, clone this repository to a directory on your system
 
-and then to run it you need to do
+$ git clone https://github.com/cobaltgit/discordpy-8ball.git
 
-```python3 bot.py```
+Reminder that you can completely skip this step and move on to the next if you wish.
+Installing the required packages
+
+This bot relies on discord.py, a Python wrapper around the Discord API. Install it and the required dependencies with
+
+$ pip install -r requirements.txt
+
+Setting up the application on Discord
+
+Next, we'll have to set up an application on the Discord developer portal
+Log in there, click New Application and give it a name.
+
+To make it a bot, click on the Bot tab on the sidebar, and click on Add Bot, and then Yes, do it.
+Under the TOKEN section, click on Copy to copy your bot token.
