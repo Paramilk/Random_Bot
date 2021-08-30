@@ -1,11 +1,16 @@
 # Random_Bot
+
+(Due to discord.py shuting down (sad) i'm gonna rewrite Random_Bot into another language is either gonna be JS,Java or Rust (I have no experince in rust but someone recomended me in the bot testing discord server https://discord.gg/NxMKWZXPy5)
+
+
+
 Hello Github, Paramilk here and here is the source code to my bot Random_Bot.
 -Paramilk
 Fetching the code
 
 First, clone this repository to a directory on your system
 
-$ git clone https://github.com/cobaltgit/discordpy-8ball.git
+$ git clone https://github.com/Paramilk/Random_Bot.git
 
 Reminder that you can completely skip this step and move on to the next if you wish.
 Installing the required packages
