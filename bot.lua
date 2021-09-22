@@ -11,7 +11,7 @@ client:on('messageCreate', function(message)
 	end
 end)
 
-client:run('Bot ODc5Njc5MTUzMzU0NDUzMDI0.YSTPDQ.iJAH3NL2y3NhgL6kztjUSMi-Y8o')
+client:run('Bot ')
 client:on('messageCreate', function(message)
   if message.author.bot then return end
 
