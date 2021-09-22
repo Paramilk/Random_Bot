@@ -1,6 +1,8 @@
 # Random_Bot
+# Now writtern in Lua
 
-(Due to discord.py shuting down (sad) i'm gonna rewrite Random_Bot into another language is either gonna be JS,Java or Rust (I have no experince in rust but someone recomended me in the bot testing discord server https://discord.gg/NxMKWZXPy5)
+
+Discord Serverhttps://discord.gg/NxMKWZXPy5
 
 
 
@@ -15,9 +17,9 @@ $ git clone https://github.com/Paramilk/Random_Bot.git
 Reminder that you can completely skip this step and move on to the next if you wish.
 Installing the required packages
 
-This bot relies on discord.py, a Python wrapper around the Discord API. Install it and the required dependencies with
+This bot relies on discordia , a lua wrapper around the Discord API. Install it with luvit (luvit.io) via the lit install command
 
-$ pip install -r requirements.txt
+$ lit install SinisterRectus/discordia
 
 Setting up the application on Discord
 
