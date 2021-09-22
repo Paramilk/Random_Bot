@@ -2,13 +2,18 @@
 # Now writtern in Lua
 
 
-Discord Serverhttps://discord.gg/NxMKWZXPy5
+Discord Server:https://discord.gg/NxMKWZXPy5
 
 
 
 Hello Github, Paramilk here and here is the source code to my bot Random_Bot.
+
+
 -Paramilk
-Fetching the code
+
+
+
+## Fetching the code
 
 First, clone this repository to a directory on your system
 
