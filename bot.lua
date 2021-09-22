@@ -11,7 +11,7 @@ client:on('messageCreate', function(message)
 	end
 end)
 
-client:run('Bot ')
+client:run('Bot [INSERT TOKEN HERE] ')
 client:on('messageCreate', function(message)
   if message.author.bot then return end
 
